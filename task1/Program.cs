@@ -1,6 +1,6 @@
-﻿Console.WriteLine("Введите n: ");
+﻿Console.WriteLine("Введите Max: ");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Введите m: ");
+Console.WriteLine("Введите Min: ");
 int m = Convert.ToInt32(Console.ReadLine());
 
 void Rec (int n)
